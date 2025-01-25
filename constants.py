@@ -1,0 +1,1 @@
+GOLDEN_SCORE = 21
