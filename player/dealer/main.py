@@ -35,4 +35,3 @@ class Dealer(Player):
         """Dealer plays."""
         while self.get_hands_value() < 17:
             self.add_card(self.ask_card())
-
